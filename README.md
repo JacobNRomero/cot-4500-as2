@@ -1,6 +1,6 @@
 # cot-4500-as2
 
-This repository is designated for Assignment 2.
+## This repository is designated for Assignment 2.
 
 ### Command line prompt to run requirements.txt
 pip freeze > requirements.txt
